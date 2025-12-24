@@ -1,0 +1,17 @@
+# env
+server/.env
+
+# node
+node_modules/
+
+# build
+/dist/
+
+# logs
+*.log
+
+# prisma
+server/prisma/migrations/
+
+# misc
+.DS_Store
